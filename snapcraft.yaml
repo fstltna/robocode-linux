@@ -17,7 +17,7 @@ title: Robocode
 
 apps:
   robocode:
-    command: robocode.sh
+    command: ./robocode.sh
 parts:
   robocode:
     # See 'snapcraft plugins'
